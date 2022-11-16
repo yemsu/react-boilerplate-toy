@@ -8,8 +8,15 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+App이 개발 모드로 실행되고 동시에 json-server가 [http://localhost:8010](http://localhost:8010)에서 실행됩니다.\
+브라우저에서 로컬서버를 확인하려면 [http://localhost:3010](http://localhost:3010) 주소로 접속하세요.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm data`
+(npm start에 포함되어 있습니다.)
+json-server가 [http://localhost:8020](http://localhost:8020)에서 실행됩니다.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
